@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">marvel_app</string>
+    <string name="is_error_code">Is Error. Code:</string>
+</resources>
